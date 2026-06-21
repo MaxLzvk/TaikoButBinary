@@ -17,12 +17,12 @@ Instead of the usual red/blue don/katsu drum hits, **TaikoButBinary** maps rhyth
 | 🔴 Red | `0` | Binary zero |
 | 🟡 Yellow | `␣` | Space / separator note |
 
-As notes scroll in and you hit them on beat, you're effectively building a binary string in real time — turning the classic drum-hit rhythm gameplay into a stream of bits.
+As notes scroll in and you hit them on beat, you're effectively building a binary string in real time, turning the classic drum-hit rhythm gameplay into a stream of bits.
 
 ## Built With
 
 - **C#**
-- **[raylib](https://www.raylib.com/)** (via [raylib-cs](https://github.com/ChrisDill/Raylib-cs)) — for rendering, input, and audio
+- **[raylib](https://www.raylib.com/)** (via [raylib-cs](https://github.com/ChrisDill/Raylib-cs)), for rendering, input, and audio
 
 ## Getting Started
 
@@ -76,12 +76,12 @@ Or open `TaikoButBinary.sln` in Visual Studio / Rider and run from there.
 
 ## Contributing
 
-This is currently a solo/school project, but suggestions and issues are welcome — feel free to open an issue or PR.
+This is currently a solo/school project, but suggestions and issues are welcome, feel free to open an issue or PR.
 
 ## License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License, see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
-Made by [MaxLzvk](https://github.com/MaxLzvk)
+Made by [Max Lazovik](https://github.com/MaxLzvk)
